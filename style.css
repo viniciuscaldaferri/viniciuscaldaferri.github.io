@@ -2,6 +2,7 @@ div#Title1 {
   color: #f5f5dc;
   font: normal 30pt sans-serif;
   text-align: center;
+  font-family: fantasy;
 }
 body {
   background-color: rgb(130, 28, 224);
