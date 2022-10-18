@@ -5,7 +5,7 @@ div#Title1 {
   font-family: fantasy;
 }
 body {
-  background-color: rgb(146, 68, 219);
+  background-color: rgb(65, 43, 87);
   color: #f5f5dc;
   height: fit-content;
 }
@@ -40,6 +40,7 @@ li:hover{
 }
 li{
   font-family: monospace;
+  font-size: 13pt;
 }
 a:hover{
   background-color: rgb(72, 3, 136);
@@ -60,3 +61,4 @@ a:hover{
   position: relative;
   left: -40px;
 }
+
