@@ -46,4 +46,17 @@ a:hover{
 #Foto{
   border-radius: 200px
 }
+#IN{
+  font-family: monospace;
+}
+#Idade{
+  border-radius: 200px;
+  position: relative;
+  left: -80px;
+}
+#Trybe{
+  border-radius: 200px;
+  position: relative;
+  left: -40px;
+}
 
