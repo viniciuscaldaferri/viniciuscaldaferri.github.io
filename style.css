@@ -1,0 +1,49 @@
+div#Title1 {
+  color: #f5f5dc;
+  font: normal 30pt sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(130, 28, 224);
+  color: #f5f5dc;
+  height: fit-content;
+}
+h2 {
+  color: #f5f5dc;
+  font: normal 18pt Arial;
+}
+div#Ap2 {
+  color: #f5f5dc;
+  font: normal 15pt Arial;
+  width: 80%;
+  text-align: center;
+}
+#Lin {
+  font: normal 13pt Arial;
+}
+#Ins {
+  font: normal 13pt Arial;
+}
+#Git {
+  font: normal 13pt Arial;
+}
+
+p {
+  color: #f5f5dc;
+  font: normal 13pt Arial;
+  font-family: monospace;
+  width: 80%;
+}
+li:hover{
+  background-color: rgb(72, 3, 136);
+}
+li{
+  font-family: monospace;
+}
+a:hover{
+  background-color: rgb(72, 3, 136);
+}
+#Foto{
+  border-radius: 200px
+}
+
